@@ -8,7 +8,7 @@ namespace Calculadora
 {
     static class Program
     {
-        /// <summary>
+        /// <summarys> 
         /// Ponto de entrada principal para o aplicativo.
         /// </summary>
         [STAThread]
