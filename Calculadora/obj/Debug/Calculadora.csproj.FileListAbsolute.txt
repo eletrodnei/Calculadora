@@ -1,0 +1,20 @@
+F:\Users\Rodnei\OneDriveeletrodnei\C# projetos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+F:\Users\Rodnei\OneDriveeletrodnei\C# projetos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+F:\Users\Rodnei\OneDriveeletrodnei\C# projetos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+F:\Users\Rodnei\OneDriveeletrodnei\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+F:\Users\Rodnei\OneDriveeletrodnei\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+F:\Users\Rodnei\OneDriveeletrodnei\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+F:\Users\Rodnei\OneDriveeletrodnei\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+F:\Users\Rodnei\OneDriveeletrodnei\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+F:\Users\Rodnei\OneDriveeletrodnei\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+F:\Users\Rodnei\OneDriveeletrodnei\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Rodnei\backup HD FG 01_08_21\Rodnei\OneDriveeletrodnei\C# projetos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Rodnei\backup HD FG 01_08_21\Rodnei\OneDriveeletrodnei\C# projetos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Rodnei\backup HD FG 01_08_21\Rodnei\OneDriveeletrodnei\C# projetos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Rodnei\backup HD FG 01_08_21\Rodnei\OneDriveeletrodnei\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Rodnei\backup HD FG 01_08_21\Rodnei\OneDriveeletrodnei\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Rodnei\backup HD FG 01_08_21\Rodnei\OneDriveeletrodnei\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Rodnei\backup HD FG 01_08_21\Rodnei\OneDriveeletrodnei\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Rodnei\backup HD FG 01_08_21\Rodnei\OneDriveeletrodnei\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Rodnei\backup HD FG 01_08_21\Rodnei\OneDriveeletrodnei\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Rodnei\backup HD FG 01_08_21\Rodnei\OneDriveeletrodnei\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
